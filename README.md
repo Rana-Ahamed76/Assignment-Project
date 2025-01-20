@@ -1,8 +1,6 @@
 # Assignment Project.
 <br>
-This is my first Project.
-<br>
-Author: Rana Ahamed
+# Author: Rana Ahamed.
 <br>
 # Task 1: Use the scattered plot with (X: Age), (Y: Fare) and provide different colors for male survived and female survived.
 <br>
